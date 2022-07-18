@@ -36,3 +36,7 @@ abstract class ArticleDatabase : RoomDatabase() {
                 .build()
     }
 }
+
+//configuramos e fomos para source em db
+
+//posteriormente configuramos o repositorio em repository, indo para news repository

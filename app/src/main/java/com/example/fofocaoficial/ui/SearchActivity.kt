@@ -83,3 +83,5 @@ class SearchActivity : AbstractActivity(), ViewHome.View {
         mainAdapter.differ.submitList(articles.toList())
     }
 }
+
+//Configuramos o activity_search - layout e configuramos o searchPresenter

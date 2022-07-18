@@ -74,4 +74,6 @@
         app:layout_constraintStart_toStartOf="@id/tvSource"
         app:layout_constraintTop_toBottomOf="@id/tvSource" />
 
+    //após isso criamos o layout de activity_article
+
 </androidx.constraintlayout.widget.ConstraintLayout>

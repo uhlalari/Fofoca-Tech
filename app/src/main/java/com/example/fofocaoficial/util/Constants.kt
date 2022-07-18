@@ -7,3 +7,5 @@ class Constants {
         const val SEARCH_NEWS_DELAY = 500L
     }
 }
+
+// Após criar as contansts, fomos para criacao do item de pesquisa de noticias  no search activity

@@ -13,3 +13,5 @@ class NewsRepository(private val db: ArticleDatabase) {
     suspend fun delete(article: Article) = db.getArticleDao().delete(article)
 
 }
+
+//após configurar fomos para o item de salvar artigos em articleactivity

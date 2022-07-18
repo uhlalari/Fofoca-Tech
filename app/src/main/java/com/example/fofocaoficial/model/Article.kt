@@ -19,3 +19,7 @@ data class Article(
     val urlToImage: String?,
 
     ) : Serializable
+ //serializable serve para passar o objeto para outra activity, após isso configuramos o newsResponse
+
+
+//configuramos o Entity e vamos para o articleDao

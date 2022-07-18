@@ -60,3 +60,5 @@ class MainAdapter : Adapter<MainAdapter.ArticleViewHolder>() {
     }
 
 }
+
+/*após configurar o adapter, seguimos para modelagem da arquitetura mvp, criamos o presenter News presenter e search presenter, view home e view e favorite  */

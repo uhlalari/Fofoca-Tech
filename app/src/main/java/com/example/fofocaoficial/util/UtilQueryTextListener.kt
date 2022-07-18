@@ -36,3 +36,5 @@ internal class UtilQueryTextListener(
     }
 
 }
+
+// após isso criamos as contants em Util

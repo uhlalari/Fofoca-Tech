@@ -17,3 +17,5 @@ abstract class AbstractActivity : AppCompatActivity() {
     protected abstract fun getLayout(): Int
     protected abstract fun onInject()
 }
+
+//criada para deixar o código mais reutilizável, com métodos abstratos e fomos para o articleActivity

@@ -93,3 +93,8 @@ class MainActivity : AbstractActivity(), ViewHome.View {
         return super.onOptionsItemSelected(item)
     }
 }
+
+//Implementamos a interface e incluimos o adapter , configuramos o news presenter e o news data source, e modificacoes no layout activity_main, após isso criacao do menu em NewsDataSource
+
+
+//aqui criamos a funcao para click adapter e voltamos para ArticleActivity

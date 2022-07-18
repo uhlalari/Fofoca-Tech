@@ -44,3 +44,12 @@ class ArticleActivity : AbstractActivity(), ViewHome.Favorite {
 
     override fun showArticles(articles: List<Article>) {}
 }
+
+//Pegamos o contrutor e implementamos os métodos necessarios e fomos para o favoriteActivity para configuracao dele
+
+
+//Aqui criamos o webview e vamos para a main activity
+
+//finalizamos a configuracao do intent e após isso vamos para o setup Room em Article em db
+
+// fomos para listagem das noticias favoritas em FavorityActivity

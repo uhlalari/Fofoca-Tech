@@ -7,6 +7,8 @@
     android:layout_height="match_parent"
     tools:context=".ui.MainActivity">
 
+ //recyclerview é para reciclar os conteudos e funciona tipo o scroolview
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvNews"
         android:layout_width="0dp"
@@ -28,4 +30,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         />
+
+    //apos isso criamos layout de  item_news
 </androidx.constraintlayout.widget.ConstraintLayout>

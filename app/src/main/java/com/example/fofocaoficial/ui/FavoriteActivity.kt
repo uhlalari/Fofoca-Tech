@@ -95,3 +95,7 @@ class FavoriteActivity : AbstractActivity(), ViewHome.Favorite {
         mainAdapter.differ.submitList(articles.toList())
     }
 }
+
+//Fizemos o mesmo que no anterior chamando o construtor e importando os membros, após isso fomos para o newsDataSource para buscar noticias.
+
+//Configuramos o Favorite Presenter e Newsdata source  e fomos para funcao de deletar noticias dos favoritos  e finalizamos

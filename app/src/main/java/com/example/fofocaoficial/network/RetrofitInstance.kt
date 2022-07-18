@@ -27,3 +27,5 @@ class RetrofitInstance {
         }
     }
 }
+
+//após isso criamos o Adapter

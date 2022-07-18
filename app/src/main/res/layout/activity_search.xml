@@ -46,6 +46,6 @@
         app:layout_constraintStart_toStartOf="parent"
         />
 
-
+//Após isso criamos as entidades do pacote model (Main Activity UI, e article, newsResponse e Source)
 
 </androidx.constraintlayout.widget.ConstraintLayout>

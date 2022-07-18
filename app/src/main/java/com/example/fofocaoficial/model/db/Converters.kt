@@ -15,3 +15,5 @@ class Converters {
         return Source(name, name)
     }
 }
+
+//Configuramos e voltamos para o articledatabase

@@ -17,3 +17,5 @@ interface ArticleDao {
     @Delete
     fun delete(article: Article)
 }
+
+//configuramos o DAO e fomos para o ArticleDataBase

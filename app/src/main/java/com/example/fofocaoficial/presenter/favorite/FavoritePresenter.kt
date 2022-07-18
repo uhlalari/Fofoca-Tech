@@ -26,3 +26,5 @@ class FavoritePresenter(
         this.view.showArticles(articles)
     }
 }
+
+//Criado para integracao com o favoritos

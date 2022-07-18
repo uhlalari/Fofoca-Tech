@@ -29,4 +29,5 @@
         android:src="@drawable/ic_favorite"
         tools:ignore="UnusedAttribute" />
 
+    //após criamos o layout de activity_favorite
 </androidx.constraintlayout.widget.ConstraintLayout>

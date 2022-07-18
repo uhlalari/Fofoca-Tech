@@ -25,3 +25,6 @@ class SearchPresenter(
         this.view.hideProgressBar()
     }
 }
+//criamos a abstract activity para deixar o código mais reutilizável
+
+//apos configurar o search presenter, fomos para criacao do webView em ArticleActivity

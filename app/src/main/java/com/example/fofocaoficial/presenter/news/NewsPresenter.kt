@@ -27,3 +27,5 @@ class NewsPresenter(
         this.view.hideProgressBar()
     }
 }
+
+//criamos a abstract activity para deixar o código mais reutilizável

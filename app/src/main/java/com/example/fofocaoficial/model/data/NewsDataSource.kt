@@ -70,3 +70,7 @@ class NewsDataSource(context: Context) {
         }
     }
 }
+
+//Aqui configuramos o callback e criamos a coroutines e chamamos a classe que tem o retrofit, após isso listamos as noticias em MainActivity
+
+// configuramos o menu e após isso seguimos para criar o UtilQuerytextlistener em Util, jutamente com Constants

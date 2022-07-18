@@ -16,4 +16,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    //após criamos o layout de activity_search
+
 </androidx.constraintlayout.widget.ConstraintLayout>

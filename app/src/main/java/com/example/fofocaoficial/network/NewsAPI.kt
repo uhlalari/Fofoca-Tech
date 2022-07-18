@@ -29,3 +29,5 @@ interface NewsAPI {
         apiKey: String = API_KEY
     ): Response<NewsResponse>
 }
+
+//Junto com este criamos o RetrofitInstance -> seguir para ele
